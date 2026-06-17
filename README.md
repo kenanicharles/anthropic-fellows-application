@@ -33,5 +33,5 @@ anthropic-fellows-application/
 ## 📧 Contact
 
 Dr. Ken Charles  
-[Your Email Address]  
+kencharles@hotmail.com
 South Africa (Remote)
